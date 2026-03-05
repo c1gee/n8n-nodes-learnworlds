@@ -7,14 +7,14 @@
     "learnworlds"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/yourusername/n8n-nodes-learnworlds#readme",
+  "homepage": "https://github.com/c1gee/n8n-nodes-learnworlds#readme",
   "author": {
     "name": "Chris Gee",
     "email": "chris@b2bea.org"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/n8n-nodes-learnworlds.git"
+    "url": "git+https://github.com/c1gee/n8n-nodes-learnworlds.git"
   },
   "main": "dist/index.js",
   "scripts": {
@@ -55,6 +55,6 @@
     "typescript": "~4.8.4"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/n8n-nodes-learnworlds/issues"
+    "url": "https://github.com/c1gee/n8n-nodes-learnworlds/issues"
   }
 }
